@@ -17,6 +17,7 @@ import {
 const Technologies = () => (
   <Section id='tech'>
     <SectionDivider />
+    <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor vel totam
