@@ -65,6 +65,8 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
+      <SectionDivider />
+      <br />
       <SectionTitle>O mě</SectionTitle>
       <SectionText>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab voluptas
